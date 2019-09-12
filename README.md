@@ -1,4 +1,4 @@
-## Solving k-Nearest Neighbors with Math<br>
+## Solving k-Nearest Neighbors with Math and Numpy<br>
 
 __k-Nearest Neighbors is a very commonly used algorithm for classification__. It works great when you have large amount of classes and a few samples per class, this is why it is very commonly used in __face recognition__.<br>
 <br>
