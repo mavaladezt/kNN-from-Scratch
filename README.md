@@ -1,5 +1,8 @@
 ## Solving k-Nearest Neighbors with Math and Numpy<br>
 
+### NOTE: Attached you can see the 'knn.py' file with the knn functions from scratch. The 'kNN_example.ipynb' file has an example with this implementation.
+
+
 __k-Nearest Neighbors is a very commonly used algorithm for classification__. It works great when you have large amount of classes and a few samples per class, this is why it is very commonly used in __face recognition__.<br>
 <br>
 __kNN in one sentence__: is an algorithm that classifies and assigns labels based on the closest k-neighbors.<br>
